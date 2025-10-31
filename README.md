@@ -124,8 +124,8 @@ Tested on Ubuntu 24.04, NVIDIA GeForce 3080Ti
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd <repository>
+git clone https://github.com/KwonPodo/MILRankingLoss_Sultani2018_ReImplementation.git
+cd MILRankingLoss_Sultani2018_ReImplementation
 ```
 
 2. **Create conda environment**
