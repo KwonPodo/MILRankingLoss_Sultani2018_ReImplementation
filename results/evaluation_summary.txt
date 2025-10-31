@@ -1,0 +1,12 @@
+Evaluation Summary
+============================================================
+Model: checkpoints/best_model.pth
+Test videos: 290
+Total segments: 9280
+Anomaly segments: 1685 (18.2%)
+
+Results:
+  AUC: 0.7092
+  Optimal threshold: 0.0302
+  TPR at optimal: 0.6178
+  FPR at optimal: 0.2969

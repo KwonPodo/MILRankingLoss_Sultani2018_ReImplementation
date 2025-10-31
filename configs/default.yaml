@@ -1,0 +1,22 @@
+
+wandb:
+  project: "IntelligentVision_Assignment2_MIL_Sultani2018"
+
+data:
+  feature_path: "data/features/"
+  train_annotation_path: "data/annotations/train_set.txt"
+  test_annotation_path: "data/annotations/test_set.txt"
+
+model:
+  input_dim: 4096
+  hidden_dims: [512, 32]
+  dropout: 0.6
+
+training:
+  batch_size: 60
+  learning_rate: 0.001
+  num_epochs: 100
+  lambda1: 0.00008 # smoothness
+  lambda2: 0.00008 # sparsity
+  lambda3: 0.01 # weight decay
+  optimizer: "adam"

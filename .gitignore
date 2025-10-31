@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data
+data/features/*.txt
+data/videos/*.mp4
+
+# Checkpoints & Results
+checkpoints/*.pth
+results/plots/*.png
+results/scores/*.json
+
+# W&B
+wandb/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
