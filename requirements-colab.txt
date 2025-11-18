@@ -1,0 +1,6 @@
+# Minimal requirements for Google Colab
+# Colab already has: torch, numpy, scipy, matplotlib, scikit-learn, tqdm
+
+# Only install what's missing or needs specific version
+wandb>=0.15.0
+PyYAML>=6.0

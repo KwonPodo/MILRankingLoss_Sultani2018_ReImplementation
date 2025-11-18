@@ -6,8 +6,8 @@ __pycache__/
 .Python
 
 # Data
-data/features/*.txt
-data/videos/*.mp4
+data/
+*.mp4
 
 # Checkpoints & Results
 checkpoints/*.pth

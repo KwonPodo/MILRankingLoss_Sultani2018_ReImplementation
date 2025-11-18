@@ -107,7 +107,7 @@ The full UCF-Crime dataset with videos is > 110 GB, which is impractical for Goo
 
 **Option 2: Full UCF-Crime Dataset**
 - Original dataset: [Dropbox Link](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0)
-- C3D Features & Annotations: [Google Drive](https://drive.google.com/drive/folders/18gcJ9RxntCto1IQwLRNg7r9zOyLV41Wu?usp=sharing)
+- C3D Features & Annotations: [Google Drive](https://drive.google.com/drive/folders/1fNjogOL8BBWf_4nHjKXcVwBIwwJA9BFh?usp=sharing)
 
 *Note: Features are from [ekosman's implementation](https://github.com/ekosman/AnomalyDetectionCVPR2018-Pytorch)*
 

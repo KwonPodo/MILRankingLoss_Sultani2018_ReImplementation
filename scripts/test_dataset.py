@@ -3,7 +3,7 @@ from utils.sampler import BalancedBatchSampler
 from torch.utils.data import DataLoader
 
 dataset = C3DFeatureDataset(
-    annotation_path="data/annotations/train_subset.txt",
+    annotation_path="data/annotations/train_set.txt",
     features_root="data/features"
 ) 
 
